@@ -10,11 +10,17 @@ Codruta Merticaru
 [Data Analytics Part Time, Amsterdam & July 18th 2020]
 
 Content
+
 Project Description
+
 Rules
+
 Workflow
+
 Organization
+
 Links
+
 Project Description
 Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
 
