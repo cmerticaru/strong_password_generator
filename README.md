@@ -40,4 +40,4 @@ Include links to your repository, slides and kanban board. Feel free to include 
 
 Repository
 Slides
-Trello
+Trello https://trello.com/b/g9YgCgPK/project-1-build-your-own-game
