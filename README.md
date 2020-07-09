@@ -1,7 +1,10 @@
 # strong_password_generator
 this is the repository for my first project where I am building a strong password generator
+
 Ironhack Logo
+
 Strong Password Generator
+
 Codruta Merticaru
 
 [Data Analytics Part Time, Amsterdam & July 18th 2020]
