@@ -23,10 +23,10 @@ The generator will create 12 character passwords randomizing from a list of lett
 
 ## Workflow
 Outline the workflow you used in your project:
-*[Created the Trello Kanban board for planning the game]*
-*[Created the Github repository]*
-*[Plan:]*
-1.created and cloned the remote Github repository 
+- Created the Trello Kanban board for planning the game
+- Created the Github repository
+- Plan:
+1. created and cloned the remote Github repository 
 2. created .gitignore file
 3. created and kept updating the README.md file
 4. researched about the game - what crtieria/requirements should be set for the generator
