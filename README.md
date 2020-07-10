@@ -1,43 +1,38 @@
 # strong_password_generator
 this is the repository for my first project where I am building a strong password generator
 
-Ironhack Logo <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
+<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-Strong Password Generator
+# Strong Password Generator
+*[Codruta Merticaru]*
 
-Codruta Merticaru
+*[Data Analytics Part Time, Amsterdam & July 18th 2020]*
 
-[Data Analytics Part Time, Amsterdam & July 18th 2020]
+## Content
+- [Project Description](#project-description)
+- [Rules](#rules)
+- [Workflow](#workflow)
+- [Organization](#organization)
+- [Links](#links)
 
-Content
-
-Project Description
-
-Rules
-
-Workflow
-
-Organization
-
-Links
-
-Project Description
+## Project Description
 Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
 
-Rules
+## Rules
 Briefly describe the rules of the game.
 
-Workflow
+## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
 
-Organization
+## Organization
 How did you organize your work? Did you use any tools like a kanban board?
 
 What does your repository look like? Explain your folder and file structure.
 
-Links
+## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-Repository
-Slides
-Trello https://trello.com/b/NsWbyTpv/strong-password-generator-codruta-project-1
+[Repository](https://https://github.com/)  
+[Slides](https://slides.com/)  
+[Trello](https://trello.com/b/NsWbyTpv/strong-password-generator-codruta-project-1)  
+
