@@ -1,7 +1,7 @@
 # strong_password_generator
 this is the repository for my first project where I am building a strong password generator
 
-Ironhack Logo
+Ironhack Logo <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 Strong Password Generator
 
