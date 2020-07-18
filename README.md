@@ -19,7 +19,7 @@ This is the repository for my first project where I am building a strong passwor
 Since cyber security is becoming critical in our time, I chose the creation of the strong password generator as the project for myself. I want to have a deeper understanding of how I can create better passwords for increased protection. 
 
 ## Rules
-The generator will create 12 character passwords randomizing from a list of letters, numbers, symbols, based on certain predefined constraints/requirements
+The generator will create 15 character passwords randomizing from a list of letters, numbers, symbols, based on certain predefined constraints/requirements
 
 ## Workflow
 Outline the workflow you used in your project:
@@ -47,6 +47,6 @@ My repository has 1 readme file, 1 gitignore file and 1 game file. In the readme
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/cmerticaru/strong_password_generator)  
-[Slides](https://slides.com/)  
+[Slides](https://docs.google.com/presentation/d/1-qskFFBs4PaOnlth7kTs5xc9JS28XJSTYQZQge-M7rE/edit?usp=sharing)  
 [Trello](https://trello.com/b/NsWbyTpv/strong-password-generator-codruta-project-1)  
 
